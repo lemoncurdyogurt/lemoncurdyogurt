@@ -11,7 +11,7 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Shin%20%Sujin&fontSize=70)
 
-[![lemoncurdyogurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemoncurdyogurt&theme=github_dark&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemoncurdyogurt&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1)
 
 - 👋 Hi there I'm Sujin Shin(@lemoncurdyogurt)
