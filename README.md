@@ -19,6 +19,7 @@
 - 📫 email: suhosinsu1@naver.com
 
 ## Experience
+* 2026.03.06-2026.8: IT 연합 동아리 코테이토 13기 - 교육팀 부팀장
 * 2025.9-2026.2.20: IT 연합 동아리 코테이토 12기 - Web Front-end
 * 2025.9-2026.1.30: CEOS 프론트엔드 운영진
 * 2025.8 하니홈: CEOS 프로젝트, 해외 한인을 위한 숙소 매칭 플랫폼 - Web Front-end
