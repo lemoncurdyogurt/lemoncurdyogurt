@@ -12,7 +12,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Shin%20%Sujin&fontSize=70)
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemoncurdyogurt&show_icons=true&theme=radical)
-| Solved.ac Profile | Programmers Rank |
+| Solved.ac | Programmers Rank |
 | :---: | :---: |
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1) | ![](https://github.com/lemoncurdyogurt/github-programmers-rank/blob/master/lib/result.svg) |
 
