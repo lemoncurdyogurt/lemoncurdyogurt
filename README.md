@@ -14,7 +14,7 @@
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemoncurdyogurt&show_icons=true&theme=radical)
 | Solved.ac | Programmers Rank |
 | :---: | :---: |
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1) | ![](https://github.com/lemoncurdyogurt/github-programmers-rank/blob/master/lib/result.svg) |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1) | ![](https://raw.githubusercontent.com/lemoncurdyogurt/github-programmers-rank/master/lib/result.svg) |
 
 
 ## Experience
