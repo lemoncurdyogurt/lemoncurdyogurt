@@ -16,6 +16,10 @@
 | :---: | :---: |
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1) | ![](https://raw.githubusercontent.com/lemoncurdyogurt/github-programmers-rank/master/lib/result.svg) |
 
+## Certification
+* 2026.3 OPIc IM2
+* 2026.3 SQLD
+* 2024.6 정보처리기사
 
 ## Experience
 * 2026.03.06-2026.8: IT 연합 동아리 코테이토 13기 - 교육팀 부팀장
@@ -25,7 +29,6 @@
 * 2025.3-2025.8 신촌 연합 창업 IT 학회 CEOS 21기 - Web Front-end
 * 2025.2 코드잇부스트 홍익대학교 데모데이 조각집 7팀 [우수상 수상] - Web Front-end
 * 2024.9-2025.2 IT 연합동아리 코드잇부스트 홍익대학교 1기 2반 - Web Front-end
-* 2024.6 정보처리기사 취득
 * 2022.12-2023.2 멋쟁이사자처럼 홍익대학교 11기 리크루팅 페이지 제작 - Web Back-End
 * 2022.8 멋사먹자: 홍익대학교 근처 맛집 큐레이팅 페이지 제작 - Web Back-End
 * 2022.3-2023.2 IT 연합동아리 멋쟁이사자처럼 홍익대학교 10기 - Web Back-End
