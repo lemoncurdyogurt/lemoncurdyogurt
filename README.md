@@ -18,7 +18,7 @@
 
 ## About Me
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts)
-[포토폴리오](https://drive.google.com/file/d/1VNnXgyhFiz8sz1R9b-iZ7EF2ReXIBLVr/view?usp=sharing)
+[포토폴리오](https://drive.google.com/file/d/1V8iYommKsjCwF7LyfiZZfnEprPb3d2nA/view?usp=sharing)
 
 ## Certification
 * 2026.3 OPIc IM2
