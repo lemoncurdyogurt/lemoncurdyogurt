@@ -16,6 +16,11 @@
 | :---: | :---: |
 |![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemoncurdyogurt&show_icons=true&theme=radical)| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1) | 
 
+## About Me
+[![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts)
+
+[포토폴리오]( https://drive.google.com/file/d/17qyVRpptycV2gAwr2wLTcol8_-u_pxtP/view?usp=sharing )
+
 ## Certification
 * 2026.3 OPIc IM2
 * 2026.3 SQLD
@@ -44,11 +49,6 @@
 | 2024.09 - 2025.02 | IT 연합동아리 코드잇부스트 홍익대학교 1기 2반 | Web Frontend |
 | 2022.03 - 2023.02 | IT 연합동아리 멋쟁이사자처럼 홍익대학교 10기 | Web Backend |
 | 2020.03 | 홍익대학교 컴퓨터공학과 | 입학 |
-
-## About Me
-[![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts)
-
-[포토폴리오]( https://drive.google.com/file/d/17qyVRpptycV2gAwr2wLTcol8_-u_pxtP/view?usp=sharing )
 
 
 
