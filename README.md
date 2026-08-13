@@ -18,7 +18,7 @@
 
 ## About Me
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts) <br/>
-[🔗 이력서](https://drive.google.com/file/d/1lH6cEoqfcPbVoaVzExyGJP5f-pnKBpr3/view?usp=drive_link)
+[🔗 이력서](https://drive.google.com/file/d/1lH6cEoqfcPbVoaVzExyGJP5f-pnKBpr3/view?usp=drive_link) <br/>
 [🔗 포토폴리오](https://drive.google.com/file/d/1Au41W08hBye9Wa8P-cjVzBrF_WtfIGP1/view?usp=drive_link)
 
 ## Certification
