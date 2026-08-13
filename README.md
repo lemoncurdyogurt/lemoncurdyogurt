@@ -17,8 +17,9 @@
 |![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemoncurdyogurt&show_icons=true&theme=radical)| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1) | 
 
 ## About Me
-[![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts)
-[포토폴리오](https://drive.google.com/file/d/1V8iYommKsjCwF7LyfiZZfnEprPb3d2nA/view?usp=sharing)
+[![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts) <br/>
+[🔗 이력서](https://drive.google.com/file/d/1lH6cEoqfcPbVoaVzExyGJP5f-pnKBpr3/view?usp=drive_link)
+[🔗 포토폴리오](https://drive.google.com/file/d/1Au41W08hBye9Wa8P-cjVzBrF_WtfIGP1/view?usp=drive_link)
 
 ## Certification
 * 2026.3 OPIc IM2
