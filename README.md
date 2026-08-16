@@ -30,7 +30,7 @@
 
 | 기간 | 프로젝트명 | 역할 | 설명 및 특징 | 비고 |
 | --- | --- | --- | --- | --- |
-| 2025.11 ~ 2026.02 | [**쿠킵**](https://github.com/soeun-727/CooKeep-frontend) | Web Frontend | 1인 가구 보유 재료 관리 및 재료 기반 레시피 추천 플랫폼, CooKeep | |
+| 2026.06 ~  | [**쿠킵**](https://github.com/soeun-727/CooKeep-frontend) | Web Frontend | 1인 가구 보유 재료 관리 및 재료 기반 레시피 추천 플랫폼, CooKeep | |
 | 2025.11 ~ 2026.02 | [**심톡**](https://github.com/IT-Cotato/12th-SimTok-FE) | Web Frontend | 바쁜 일상 속에서도 가족 간 안부와 감정을 손쉽고 자연스럽게 나눌 수 있는 감정 교류 기반 채팅 플랫폼 | 코테이토 21기 데모데이 프로젝트 |
 | 2026.01 ~ 2026.01 | [**찔릿**](https://github.com/7th-COKERTHON/Team2-Frontend) | Web Frontend | 사용자가 무의식적으로 저지르는 나쁜 습관(흑)을 포착·기록하고, 이를 바로잡기 위한 다짐(백)을 공유하는 소셜 플랫폼 | 코테이토 해커톤 프로젝트 [대상 수상] |
 | 2025.03 ~ 2025.11 | [**모비**](https://github.com/MOBI-Graduation-Project/MOBI_FE) | 팀장, 기획, Web Frontend | 주식 투자 초보자도 쉽게 접근할 수 있도록 메타버스 기반 커뮤니티와 AI 주식 차트 예측·분석 기능을 결합한 웹 플랫폼 | 2025년 홍익대학교 컴퓨터공학과 졸업프로젝트 |
