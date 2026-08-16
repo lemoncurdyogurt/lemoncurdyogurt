@@ -42,7 +42,7 @@
 
 | 기간 | 활동명 | 역할 / 내용 | 
 | --- | --- | --- |
-| 2026.03.06 - 2026.08 | IT 연합 동아리 코테이토 13기 | 교육팀 부팀장 [CS 발표 자료](https://drive.google.com/file/d/1KB3rBWp7VlnDGGxMQKCmE-JPsLet8sVK/view?usp=sharing)|
+| 2026.03.06 - 2026.08 | IT 연합 동아리 코테이토 13기 | 교육팀 부팀장 [CS 발표 자료](https://drive.google.com/file/d/1Qi96txR57NOt3YGXKj49DwqOaUlTd9Wz/view?usp=drive_link)|
 | 2025.09 - 2026.02.20 | IT 연합 동아리 코테이토 12기 | Web Frontend |
 | 2025.09 - 2026.01.30 | CEOS | 프론트엔드 운영진 |
 | 2025.03 - 2025.08 | 신촌 연합 창업 IT 학회 CEOS 21기 | Web Frontend |
