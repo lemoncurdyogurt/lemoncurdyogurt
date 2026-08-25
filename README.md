@@ -12,10 +12,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Shin%20%Sujin&fontSize=70)
 
 
-| [GitHub stats]| Solved.ac | 
-| :---: | :---: |
-|![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemoncurdyogurt&show_icons=true&theme=radical)| [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suhosinsu1)](https://solved.ac/suhosinsu1) | 
-
 ## About Me
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts) <br/>
 [🔗 이력서](https://drive.google.com/file/d/1aeFuDV-WKPZEYNnHf5s3wK8vQ8ZQO2YA/view?usp=drive_link) <br/>
