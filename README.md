@@ -5,7 +5,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lemoncurdyogurt/posts/)](https://velog.io/@lemoncurdyogurt/posts) <br/>
 
 [이력서](https://github.com/user-attachments/files/32652699/resume.pdf) •
-[포토폴리오](https://github.com/user-attachments/files/32652698/portfolio.pdf)
+[포트폴리오](https://github.com/user-attachments/files/32652698/portfolio.pdf)
 
 
 ## Certification
